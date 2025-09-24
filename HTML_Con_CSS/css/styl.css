@@ -1,0 +1,15 @@
+.texto-azul{
+    color: rgb(152, 214, 255);
+}
+.texto-verde{
+    color: rgb(182, 255, 174);
+}
+.texto-amarillo{
+    color: rgb(255, 253, 165);
+}
+.titulo{
+    color: rgb(226, 183, 255);
+}
+body{
+    background-color: black;
+}
